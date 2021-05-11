@@ -1,4 +1,4 @@
-# "Deep Learning - From Basics to Practice" by Andrew Glassner
+# "Deep Learning - A Visual Approach" by Andrew Glassner
 
 This is the official repo for my book from No Starch Press.
 
