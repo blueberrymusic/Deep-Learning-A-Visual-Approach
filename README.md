@@ -9,7 +9,7 @@ Click on the link to order it in physical or Ebook formats.
 
 ## What's here
 
-### The figures
+## The figures
 
 This repo gives you all the figures from my book, for free, in high-resolution
 PNG format. 
@@ -32,7 +32,7 @@ their images are in the public domain. All images selected from Pixabay are
 labeled as released under the Creative Commons CC0 license, and explicitly
 state, "Free for commercial use. No attribution required."
 
-### The notebooks
+## The notebooks
 
 Many figures in the book were created using Python programs.
 Almost all of these were developed in Jupyter notebooks,
