@@ -11,7 +11,7 @@ Click on the link to order it in physical or Ebook formats.
 
 In this directory you'll find three, free bonus chapters.
 
-**Bonus1** show how to use Python's *scikit-learn* library to do basic machine learning operations.
+**Bonus1** shows how to use Python's *scikit-learn* library to do basic machine learning operations.
 
 **Bonus2** and **Bonus3** show how to use the *Keras* library (also in Python) to do deep learning.
 
