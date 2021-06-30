@@ -5,7 +5,7 @@ Here are three free bonus Chapters!
 ## Ordering the book
 
 My book is called [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach)
-Click on the link to order it in physical or Ebook formats.
+Click on the link to order it in physical or Ebook formats direct from the publisher, or click [this Amazon link](https://amazon.com/dp/1718500726/) to order it from Amazon.
 
 ## What's here
 
