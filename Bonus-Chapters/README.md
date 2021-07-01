@@ -9,7 +9,7 @@ Click on the link to order it in physical or Ebook formats direct from the publi
 
 ## What's here
 
-In this directory you'll find three, free bonus chapters.
+In this directory you'll find three, **free bonus chapters**. For now, they're only in PDF form, but you can find free converters to almost any other format by searching with your favorite search provider.
 
 **Bonus1** shows how to use Python's *scikit-learn* library to do basic machine learning operations.
 
