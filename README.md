@@ -7,15 +7,15 @@ This is the official repo for my book from No Starch Press.
 My book is called [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach) 
 Click on the link to order it in physical or Ebook formats.
 
-## The Bonus Chapters!
+## Free Bonus Chapters!
 
-Three *free* bonus chapters! How to use *scikit-learn* for machine learning,
+Three **free** bonus chapters! How to use *scikit-learn* for machine learning,
 and how to use *Keras* for deep learning. Free text, free notebooks, free
-figures, the whole thing! Just [click here](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters) or click on the [Bonus Chapters repo](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters).
+figures, the whole thing! Just [click here](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters) or click on the [Bonus Chapters repo](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters). The figures and notebooks are saved with all of the other figures and notebooks (see below).
 
-## The figures
+## Free Figures!
 
-This repo gives you all the figures from my book, for free, in high-resolution
+All the figures from my book, **for free**, in high-resolution
 PNG format. 
 To help you search, there's a directory called `Thumbnails` which 
 offers contact sheets of the figures, 20 per page.
@@ -36,19 +36,15 @@ their images are in the public domain. All images selected from Pixabay are
 labeled as released under the Creative Commons CC0 license, and explicitly
 state, "Free for commercial use. No attribution required."
 
-## The notebooks
+## Free Notebooks!
 
-Many figures in the book were created using Python programs.
-Almost all of these were developed in Jupyter notebooks,
-and those are included here.
+Jupyter notebooks for making many of the figures in the book.
 
 Since the purpose of the notebooks was to make figures, 
 rather than to
-serve as tutorials, they are only lightly commented. 
-But I did want them to be readable if you wanted to see
-how I built a certain system, or made a particular image.
-So I tried to 
-choose clear variable names, and whenever I could I
+serve as tutorials, they are only lightly commented,
+but they're meant to be readable.
+So I used longer but clearer variable names, and whenever I could I
 preferred clarity over most other concerns. This means
 that much of the code can be shortened, 
 reorganized or otherwise refactored,
