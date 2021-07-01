@@ -7,7 +7,11 @@ This is the official repo for my book from No Starch Press.
 My book is called [Deep Learning: A Visual Approach](https://nostarch.com/deep-learning-visual-approach) 
 Click on the link to order it in physical or Ebook formats.
 
-## What's here
+## The Bonus Chapters!
+
+Three *free* bonus chapters! How to use *scikit-learn* for machine learning,
+and how to use *Keras* for deep learning. Free text, free notebooks, free
+figures, the whole thing! Just [click here](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters) or click on the [Bonus Chapters repo](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters).
 
 ## The figures
 
