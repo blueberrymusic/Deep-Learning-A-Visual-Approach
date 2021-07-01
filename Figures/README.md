@@ -11,7 +11,8 @@ Click on the link to order it in physical or Ebook formats.
 ## About the figures
 
 This repo gives you all the figures from my book, 
-including the three [bonus chapters](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters),for free, in high-resolution
+including the three [bonus chapters](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach/tree/main/Bonus-Chapters),
+for free, in high-resolution
 PNG format. 
 To help you search, there's a directory called `Thumbnails` which 
 offers contact sheets of the figures, 20 per page.
