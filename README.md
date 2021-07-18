@@ -64,4 +64,12 @@ licensing, and see the book for the URL where each image may be found. All image
 without an explicit citation in the book are by the author, and are released
 under the MIT license.
 
+## Errata
+
+A book of this size will inevitably have errors. 
+For each error I'm aware of, I'll update the appropriate figure(s) 
+and/or notebook(s), and then put a description of the error
+(along with a credit to the person who found it) in a plain-text
+file in the `Errata` folder.
+
 ## Have Fun!
