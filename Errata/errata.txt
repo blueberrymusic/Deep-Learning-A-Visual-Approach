@@ -5,8 +5,8 @@ Figures and Jupyter notebooks are available for free from my GitHub repo:
 https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
 
 When a figure or notebook is corrected, I put the new figure or notebook 
-on the GitHub, so those repos always contain the most correct and up to
-date versions.
+in the corresponding repo, so those repos always contain the most correct 
+and up to date versions.
 
 ................................................................................
 
