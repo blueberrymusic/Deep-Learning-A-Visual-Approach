@@ -3,13 +3,16 @@ by Andrew Glassner, published by No Starch Press.
 
 Figures and Jupyter notebooks are available for free from my GitHub repo:
 https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
+
+When a figure or notebook is corrected, I put the new figure or notebook 
+on the GitHub, so those repos always contain the most correct and up to
+date versions.
+
 ................................................................................
 
-Figure 2-5
+Page 20, Figure 2-5
    Viktor Korsun, 18 July 2021
-   The curve is not properly normalized. A corrected version of the figure 
-   is in 2-5.png in the Figures section of the repo, and the corrected code 
-   is in notebook Chapter-02-Statistics.ipynb
+   The curve is not properly normalized. 
 
 Page 20
    Viktor Korsun, 18 July 2021
@@ -17,3 +20,7 @@ Page 20
    us..." with "This graph lets us find the probability of getting back a
    value within any given range, by adding up the area under the curve
    in that range."
+
+Page 468, Figure 16-45 
+   John Funge, 30 July 2021
+   The bottom-most row in the leftmost image (T-map) should not be present.
