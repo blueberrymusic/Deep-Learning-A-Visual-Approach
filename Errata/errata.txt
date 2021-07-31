@@ -24,3 +24,5 @@ Page 20
 Page 468, Figure 16-45 
    John Funge, 30 July 2021
    The bottom-most row in the leftmost image (T-map) should not be present.
+
+--------------------------- END OF ERRATA --------------------------- 
