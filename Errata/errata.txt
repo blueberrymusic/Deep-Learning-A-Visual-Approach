@@ -27,11 +27,12 @@ Page 20
    value within any given range, by adding up the area under the curve
    in that range. Suppose we want to find the probability of finding a 
    car with, say, 0.45 units of oil. We don't just look up the value of
-   at 0.45. Instead, we imagine a little region around 0.45, say 0.44 to
-   0.46, and we add up the area under the curve in that region. This gives
-   us the probability of getting back a value between 0.44 and 0.46. This 
-   means that the curve can take on values much greater than 1, as long as 
-   the total area beneath the entire curve adds up to 1."
+   the curve at 0.45. Instead, we imagine a little region around 0.45, 
+   such as from 0.44 to 0.46, and we add up the area under the curve 
+   in that region. This gives us the probability of getting back a value 
+   between 0.44 and 0.46. This means that the curve can take on values 
+   much greater than 1, as long as the curve is always positive, and the
+   total area beneath the entire curve adds up to 1."
 
 Page 468, Figure 16-45 
    John Funge, 30 July 2021
