@@ -1,0 +1,40 @@
+This is the errata file for "Deep Learning: A Visual Approach" 
+by Andrew Glassner, published by No Starch Press.
+
+Figures and Jupyter notebooks are available for free from my GitHub repo:
+https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
+
+When a figure or notebook is corrected, I put the new figure or notebook 
+in the corresponding repo, so those repos always contain the most correct 
+and up to date versions.
+
+Entries are attributed to the person who first reported the issue, or
+everyone involved if it took a couple of tries to make a clear and
+concise change.
+
+................................................................................
+
+Page 20, Figure 2-5
+   Viktor Korsun, 18 July 2021
+   The curve is now properly normalized. That is, the area beneath the
+   curve is equal to 1.
+
+Page 20
+   Viktor Korsun, 18 July 2021
+   Hank Shen, 2 August 2021 
+   Replace the sentence just before Figure 2-5, beginning "This graph shows 
+   us..." with "This graph lets us find the probability of getting back a
+   value within any given range, by adding up the area under the curve
+   in that range. Suppose we want to find the probability of finding a 
+   car with, say, 0.45 units of oil. We don't just look up the value of
+   at 0.45. Instead, we imagine a little region around 0.45, say 0.44 to
+   0.46, and we add up the area under the curve in that region. This gives
+   us the probability of getting back a value between 0.44 and 0.46. This 
+   means that the curve can take on values much greater than 1, as long as 
+   the total area beneath the entire curve adds up to 1."
+
+Page 468, Figure 16-45 
+   John Funge, 30 July 2021
+   The bottom-most row in the leftmost image (T-map) has been removed.
+
+--------------------------- END OF ERRATA --------------------------- 
