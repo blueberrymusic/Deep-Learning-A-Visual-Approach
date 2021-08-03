@@ -12,7 +12,7 @@ Entries are attributed to the person who first reported the issue, or
 everyone involved if it took a couple of tries to make a clear and
 concise change.
 
-................................................................................
+FIGURES ........................................................................
 
 Page 20, Figure 2-5
  Viktor Korsun, 18 July 2021
@@ -38,5 +38,13 @@ Page 20
 Page 468, Figure 16-45 
  John Funge, 30 July 2021
    The bottom-most row in the leftmost image (T-map) has been removed.
+
+NOTEBOOKS ......................................................................
+
+Chapter-02-Statistics.ipynb
+ Viktor Korsun, 18 July 2021
+ Hank Shen, 2 August 2021 
+   Figure 2-5 is now normalized
+   Figure 2-5 y-axis now labeled as probability density
 
 --------------------------- END OF ERRATA --------------------------- 
