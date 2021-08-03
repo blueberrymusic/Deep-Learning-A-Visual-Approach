@@ -15,13 +15,14 @@ concise change.
 ................................................................................
 
 Page 20, Figure 2-5
-   Viktor Korsun, 18 July 2021
-   The curve is now properly normalized. That is, the area beneath the
-   curve is equal to 1.
+ Viktor Korsun, 18 July 2021
+ Hank Shen, 2 August 2021 
+   The curve is now properly normalized. 
+   Changed y-axis label to probability density
 
 Page 20
-   Viktor Korsun, 18 July 2021
-   Hank Shen, 2 August 2021 
+ Viktor Korsun, 18 July 2021
+ Hank Shen, 2 August 2021 
    Replace the sentence just before Figure 2-5, beginning "This graph shows 
    us..." with "This graph lets us find the probability of getting back a
    value within any given range, by adding up the area under the curve
@@ -35,7 +36,7 @@ Page 20
    total area beneath the entire curve adds up to 1."
 
 Page 468, Figure 16-45 
-   John Funge, 30 July 2021
+ John Funge, 30 July 2021
    The bottom-most row in the leftmost image (T-map) has been removed.
 
 --------------------------- END OF ERRATA --------------------------- 
