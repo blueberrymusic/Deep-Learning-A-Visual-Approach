@@ -35,6 +35,10 @@ Page 20
    much greater than 1, as long as the curve is always positive, and the
    total area beneath the entire curve adds up to 1."
 
+Page 328, Paragraph 3, Last sentence
+  Andrew, 16 August 2021
+    Replace "If a layer is made up" with "If a network is made up"
+
 Page 468, Figure 16-45 
  John Funge, 30 July 2021
    The bottom-most row in the leftmost image (T-map) has been removed.
