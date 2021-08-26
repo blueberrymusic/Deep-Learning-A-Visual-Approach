@@ -1,6 +1,10 @@
 This is the errata file for "Deep Learning: A Visual Approach" 
 by Andrew Glassner, published by No Starch Press.
 
+The up-to-date version of this file is maintained at
+https://github.com/blueberrymusic/
+           Deep-Learning-A-Visual-Approach/edit/main/Errata/errata.txt
+
 Figures and Jupyter notebooks are available for free from my GitHub repo:
 https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
 
@@ -34,6 +38,11 @@ Page 20
    between 0.44 and 0.46. This means that the curve can take on values 
    much greater than 1, as long as the curve is always positive, and the
    total area beneath the entire curve adds up to 1."
+   
+Page 33, Final paragraph, Last full sentence
+  Craig Reynolds, 26 August 2021
+    Replace "500 centimeters" with "500 millimeters"
+    
 
 Page 328, Paragraph 3, Last sentence
   Andrew, 16 August 2021
