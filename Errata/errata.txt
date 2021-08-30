@@ -28,7 +28,8 @@ Page 20
  Viktor Korsun, 18 July 2021
  Hank Shen, 2 August 2021 
    Replace the sentence just before Figure 2-5, beginning "This graph shows 
-   us..." with "This graph lets us find the probability of getting back a
+   us..." with:
+   This graph lets us find the probability of getting back a
    value within any given range, by adding up the area under the curve
    in that range. Suppose we want to find the probability of finding a 
    car with, say, 0.45 units of oil. We don't just look up the value of
@@ -37,11 +38,27 @@ Page 20
    in that region. This gives us the probability of getting back a value 
    between 0.44 and 0.46. This means that the curve can take on values 
    much greater than 1, as long as the curve is always positive, and the
-   total area beneath the entire curve adds up to 1."
+   total area beneath the entire curve adds up to 1.
    
 Page 33, Final paragraph, Last full sentence
   Craig Reynolds, 26 August 2021
     Replace "500 centimeters" with "500 millimeters"
+    
+Page 259, last full paragraph
+  Craig Reynolds, 30 August 2021
+    Replace "This is illustrated in Figure 10-47." with a new paragraph
+    and revised sentence:
+      Let's generalize our focus from pictures of just huskies, to
+    pictures of all kinds of dogs. Suppose we'd like to write a classifier
+    that can take in any photo of a dog, and tell us that dog's breed 
+    (or return a catch-all category of "other"). So we'll start by giving
+    PCA lots of pictures of dogs of all kinds of breeds, and have it
+    produce a set of eigendogs. Now we can give PCA any new picture of
+    a dog, and it will tell us the weights on the eigendogs needed to
+    reproduce that image. It's those weights that we'll use as inputs
+    to our classifier, rather than the pixels in the image.
+       This is illustrated in Figure 10-47, where we've just shown our
+    huskies, but in practice we'd use pictures of all kinds of dogs.
 
 Page 328, Paragraph 3, Last sentence
   Andrew, 16 August 2021
