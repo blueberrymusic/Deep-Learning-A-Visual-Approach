@@ -5,8 +5,9 @@ The up-to-date version of this file is maintained at
 https://github.com/blueberrymusic/
            Deep-Learning-A-Visual-Approach/edit/main/Errata/errata.txt
            
-The changes in this file address not only errors, but also omissions or
-places where the text or figures fell short of being as clear as I
+This file is kept to plain text so that it can be most widely viewed.
+The changes here address all errors I'm aware of, as well as omissions 
+or places where the text or figures fell short of being as clear as I
 intended.
 
 Figures and Jupyter notebooks are available for free from my GitHub repo:
@@ -20,7 +21,7 @@ Entries are attributed to the person who first reported the issue, or
 everyone involved if it took a couple of tries to make a clear and
 concise change.
 
-FIGURES ........................................................................
+TEXT AND FIGURES ...............................................................
 
 Page 20, Figure 2-5
  Viktor Korsun, 18 July 2021
@@ -48,7 +49,7 @@ Page 33, Final paragraph, Last full sentence
   Craig Reynolds, 26 August 2021
     Replace "500 centimeters" with "500 millimeters"
     
-Page 145, First paragraph
+Page 145, First paragraph, two changes
   Jarno Mielikainen, 31 August 2021
   1. Replace "the cross entropy has its minimum value of 0)." with
   "the cross entropy has its minimum additional value of 0)." 
