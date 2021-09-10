@@ -4,6 +4,10 @@ by Andrew Glassner, published by No Starch Press.
 The up-to-date version of this file is maintained at
 https://github.com/blueberrymusic/
            Deep-Learning-A-Visual-Approach/edit/main/Errata/errata.txt
+           
+The changes in this file address not only errors, but also omissions or
+places where the text or figures fell short of being as clear as I
+intended.
 
 Figures and Jupyter notebooks are available for free from my GitHub repo:
 https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
@@ -63,6 +67,15 @@ Page 259, last full paragraph
 Page 328, Paragraph 3, Last sentence
   Andrew, 16 August 2021
     Replace "If a layer is made up" with "If a network is made up"
+    
+Page 466, First paragraph
+ Hank Shen, 9 September 2021 
+   After the second sentence, insert:
+     Note that the labels T, Q, D, and R in the third column from the
+     left are not definitions of those filters, which are at the top of
+     the figure. Rather, these are summaries of where each of those
+     filters match the four two by two blocks in the four by four
+     filter to their left. 
 
 Page 468, Figure 16-45 
  John Funge, 30 July 2021
