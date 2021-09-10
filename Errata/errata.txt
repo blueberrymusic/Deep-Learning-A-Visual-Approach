@@ -48,6 +48,13 @@ Page 33, Final paragraph, Last full sentence
   Craig Reynolds, 26 August 2021
     Replace "500 centimeters" with "500 millimeters"
     
+Page 145, First paragraph
+  Jarno Mielikainen, 31 August 2021
+  1. Replace "the cross entropy has its minimum value of 0)." with
+  "the cross entropy has its minimum additional value of 0)." 
+  2. Replace "Identical distributions have a cross entropy of 0," with
+  "Identical distributions share the minimum cross entropy,"
+    
 Page 259, last full paragraph
   Craig Reynolds, 30 August 2021
     Replace "This is illustrated in Figure 10-47." with a new paragraph
