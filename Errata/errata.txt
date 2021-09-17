@@ -80,6 +80,18 @@ Page 328, Paragraph 3, Last sentence
   Andrew, 16 August 2021
     Replace "If a layer is made up" with "If a network is made up"
     
+Page 330, First paragraph, second sentence
+  Jarno Mielikainen, 17 September 2021
+    Replace "E through G" with "C through G"
+    
+Page 363, Paragraph 3, first sentence
+  Jarno Mielikainen, 17 September 2021
+    Replace "multiplying Co by -4" with "multiplying that change by -4"
+  
+Page 416, Figure 15-36 caption
+  Jarno Mielikainen, 17 September 2021
+    Replace "around epoch 600" with "around epoch 425"
+    
 Page 466, First paragraph
  Hank Shen, 9 September 2021 
    After the second sentence, insert:
