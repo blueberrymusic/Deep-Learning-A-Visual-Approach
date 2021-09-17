@@ -49,6 +49,10 @@ Page 33, Final paragraph, Last full sentence
   Craig Reynolds, 26 August 2021
     Replace "500 centimeters" with "500 millimeters"
     
+Page 97, first paragraph
+  Matthew Dority, 17 September 2021
+    At the end of the paragraph, replace "P(B|A)" with "P(A|B)"
+    
 Page 145, First paragraph, two changes
   Jarno Mielikainen, 31 August 2021
   1. Replace "the cross entropy has its minimum value of 0)." with
