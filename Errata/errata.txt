@@ -104,6 +104,11 @@ Page 466, First paragraph
 Page 468, Figure 16-45 
  John Funge, 30 July 2021
    The bottom-most row in the leftmost image (T-map) has been removed.
+   
+Page 663, 5th paragraph
+  Jarno Mielikainen, 25 September 2021
+    Replace "only 18 neurons and 54 weights" with "only 18 neurons
+    and 114 weights."
 
 NOTEBOOKS ......................................................................
 
