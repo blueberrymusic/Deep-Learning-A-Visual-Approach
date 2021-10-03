@@ -15,7 +15,8 @@ https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach
 
 When a figure or notebook is corrected, I put the new figure or notebook 
 in the corresponding repo, so those repos always contain the most correct 
-and up to date versions.
+and up to date versions. I won't normally update the thumbnails when I
+correct an image, unless the new version is unrecognizable from the old.
 
 Entries are attributed to the person who first reported the issue, or
 everyone involved if it took a couple of tries to make a clear and
@@ -91,6 +92,10 @@ Page 363, Paragraph 3, first sentence
 Page 416, Figure 15-36 caption
   Jarno Mielikainen, 17 September 2021
     Replace "around epoch 600" with "around epoch 425"
+    
+Page 437, Figure 16-10
+  Dainius Vidmantas, 3 October 2021
+    The 3x3 kernel in the upper right has been moved one step left.
     
 Page 466, First paragraph
  Hank Shen, 9 September 2021 
