@@ -140,6 +140,18 @@ Bonus Chapter 1, Page 49, first paragraph
     After "testing score of 1.0" insert ", as did the first two
     values of alpha for degree 6."
     
+Bonus Chapter 2, next to last paragraph, page 59
+  Jarno Mielikainen, 6 October 2021
+    Change "Listing B2-50" to "B2-48"
+    
+Bonus Chapter 2, 2nd paragraph, page 65
+  Jarno Mielikainen, 6 October 2021
+    Change "of or own" to "of our own"
+    
+Bonus Chapter 2, caption for Listing B2-63, page 68
+  Jarno Mielikainen, 6 October 2021
+    Change "created by B2-63" to "created by B2-62"
+    
 NOTEBOOKS ......................................................................
 
 Bonus01-Scikit-Learn-6-Automation
