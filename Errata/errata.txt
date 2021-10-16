@@ -115,6 +115,14 @@ Page 663, 5th paragraph
     Replace "only 18 neurons and 54 weights" with "only 18 neurons
     and 114 weights."
     
+Bonus Chapter 1, 2nd paragraph
+  Jarno Mielikainen, 6 October 2021
+    change "form almost any specific" to "from almost any specific"
+    
+Bonus Chapter 1, Figure B1-22, page 32
+  Jarno Mielikainen, 6 October 2021
+    Remove the "1" in "Parameter ranges 1"
+    
 Bonus Chapter 1, Listing B1-33, Page 47
   Craig Reynolds, 16 October 2021
     Remove the 0 from the dictionary for poly_degree
