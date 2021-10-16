@@ -100,7 +100,7 @@ Page 437, Figure 16-10
 Page 466, First paragraph
  Hank Shen, 9 September 2021 
    After the second sentence, insert:
-     Note that the labels T, Q, D, and R in the third column from the
+     Note that the labels T, Q, L, and R in the third column from the
      left are not definitions of those filters, which are at the top of
      the figure. Rather, these are summaries of where each of those
      filters match the four two by two blocks in the four by four
@@ -114,8 +114,29 @@ Page 663, 5th paragraph
   Jarno Mielikainen, 25 September 2021
     Replace "only 18 neurons and 54 weights" with "only 18 neurons
     and 114 weights."
-
+    
+Bonus Chapter 1, Listing B1-33, Page 47
+  Craig Reynolds, 16 October 2021
+    Remove the 0 from the dictionary for poly_degree
+    
+Bonus Chapter 1, Page 47
+  Craig Reynolds, 16 October 2021
+    Replace "7 x 4 = 28 times" with "6 x 4 = 24 times"
+    
+Bonus Chapter 1, Page 49, Figure B1-35
+  Craig Reynolds, 16 October 2021
+    The X-axis poly_degree values should run from 1 to 6
+    
+Bonus Chapter 1, Page 49, first paragraph
+  Craig Reynolds, 16 October 2021
+    After "testing score of 1.0" insert ", as did the first two
+    values of alpha for degree 6."
+    
 NOTEBOOKS ......................................................................
+
+Bonus01-Scikit-Learn-6-Automation
+  Craig Reynolds, 16 October 2021
+    In cell 12, poly_degree now runs from 1 to 6
 
 Chapter-02-Statistics.ipynb
  Viktor Korsun, 18 July 2021
