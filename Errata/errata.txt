@@ -22,7 +22,7 @@ Entries are attributed to the person who first reported the issue, or
 everyone involved if it took a couple of tries to make a clear and
 concise change.
 
-TEXT AND FIGURES ...............................................................
+BOOK TEXT AND FIGURES ..........................................................
 
 Page 20, Figure 2-5
  Viktor Korsun, 18 July 2021
@@ -115,6 +115,20 @@ Page 663, 5th paragraph
     Replace "only 18 neurons and 54 weights" with "only 18 neurons
     and 114 weights."
     
+NOTEBOOKS ......................................................................
+
+Bonus01-Scikit-Learn-6-Automation
+  Craig Reynolds, 16 October 2021
+    In cell 12, poly_degree now runs from 1 to 6
+
+Chapter-02-Statistics.ipynb
+ Viktor Korsun, 18 July 2021
+ Hank Shen, 2 August 2021 
+   Figure 2-5 is now normalized
+   Figure 2-5 y-axis now labeled as probability density
+   
+BONUS CHAPTERS .................................................................
+
 Bonus Chapter 1, 2nd paragraph
   Jarno Mielikainen, 6 October 2021
     change "form almost any specific" to "from almost any specific"
@@ -152,16 +166,59 @@ Bonus Chapter 2, caption for Listing B2-63, page 68
   Jarno Mielikainen, 6 October 2021
     Change "created by B2-63" to "created by B2-62"
     
-NOTEBOOKS ......................................................................
+Bonus Chapter 3, Figure B3-6 caption, page 6
+  Jarno Mielikainen, 6 October 2021
+    Change "dense layers have a ReLU" to "hidden dense layers 
+    have a ReLU"
+    
+Bonus Chapter 3, next-to-last paragraph, page 10
+  Jarno Mielikainen, 6 October 2021
+    Change "our two-layer model" to "our three-layer model"
+    
+Bonus Chapter 3, caption for Listing B3-4, page 12
+  Jarno Mielikainen, 6 October 2021
+    Change "Adam" to "Adam object"   
+    
+Bonus Chapter 3, caption for Listing B3-10, page 20
+  Jarno Mielikainen, 6 October 2021
+    Remove "]" at the end of the caption.
 
-Bonus01-Scikit-Learn-6-Automation
-  Craig Reynolds, 16 October 2021
-    In cell 12, poly_degree now runs from 1 to 6
+Bonus Chapter 3, caption for Listing B3-4, page 12
+  Jarno Mielikainen, 6 October 2021
+    Change "Adam" to "Adam object"   
 
-Chapter-02-Statistics.ipynb
- Viktor Korsun, 18 July 2021
- Hank Shen, 2 August 2021 
-   Figure 2-5 is now normalized
-   Figure 2-5 y-axis now labeled as probability density
+Bonus Chapter 3, page 43, 4th paragraph
+  Jarno Mielikainen, 6 October 2021
+    Change "282832" to "28 x 28 x 32"
+    
+Bonus Chapter 3, page 55, paragraphs 4-5
+  Jarno Mielikainen, 6 October 2021
+      The overall process of setting up and using the generator takes only
+    two steps. First, we create our ImageDataGenerator with the options we want.
+      Second, we train our model. As usual, we call model.fit(), but now we tell 
+      it to use the data coming out the image generator. To do this, we pass 
+      fit() the method flow() that is part of our image generator object, as
+      shown in Listing B3-49.
+    
+Bonus Chapter 3, 2nd paragraph, page 59
+  Jarno Mielikainen, 6 October 2021
+    Replace "Our example in Chapter 19 imagined" with "For example, imagine"
+
+Bonus Chapter 3, Figure B3-49 caption, page 62 
+  Jarno Mielikainen, 6 October 2021
+    Change "Figure 12-37" with "Figure 10-12"
+
+Bonus Chapter 3, first paragraph, Page 82
+  Jarno Mielikainen, 6 October 2021
+    Change "at the top of the icon" to "at the right of the icon"
+
+Bonus Chapter 3, 3rd paragraph, page 103
+  Jarno Mielikainen, 6 October 2021
+    Change "functional API" to "Functional API"
+
+Bonus Chapter 3, Figure B3-96, page 104
+  Jarno Mielikainen, 6 October 2021
+    Change both instances of "ReLu" to "ReLU"
+
 
 --------------------------- END OF ERRATA --------------------------- 
