@@ -190,6 +190,16 @@ Bonus Chapter 3, caption for Listing B3-4, page 12
 Bonus Chapter 3, page 43, 4th paragraph
   Jarno Mielikainen, 6 October 2021
     Change "282832" to "28 x 28 x 32"
+
+Bonus Chapter 3, Figure B3-33, page 48
+  Jarno Mielikainen, 6 October 2021
+    Accidental duplication of Figure B3-31 in the PDF. The repo
+    holds the correct B3-33 (the convolution layers have striding,
+    and the pooling layers are removed).
+
+Bonus Chapter 3, Figure B3-35, page 50
+  Jarno Mielikainen, 6 October 2021
+    Changed "ReLU" to "No AF" on both convolution layers
     
 Bonus Chapter 3, page 55, paragraphs 4-5
   Jarno Mielikainen, 6 October 2021
