@@ -110,6 +110,18 @@ Page 468, Figure 16-45
  John Funge, 30 July 2021
    The bottom-most row in the leftmost image (T-map) has been removed.
    
+Page 469, Figure 16-46
+  Fredrik Fågelström , 17 October 2021
+    The cell at (2,2) for L-pool in the middle of the diagram should be green.
+   
+Page 480, First paragraph
+  Fredrik Fågelström , 17 October 2021
+    Replace "The tensor coming out of Group 4 has size 28 by 28 by 512, and 
+    the tensor after the max pooling layer in Group 5 has dimensions 
+    14 by 14 by 512." with "The tensor coming out of Group 4 has size 
+    14 by 14 by 512, and the tensor after the max pooling layer in Group 
+    5 has dimensions 7 by 7 by 512.".
+   
 Page 492, 2nd paragraph
   Gösta Sundqvist, 16 October 2021
     Replace "top right of Figure 17-23" with "top right of Figure 17-24"
@@ -127,6 +139,14 @@ Page 663, 5th paragraph
   Jarno Mielikainen, 25 September 2021
     Replace "only 18 neurons and 54 weights" with "only 18 neurons
     and 114 weights."
+   
+Page 664, Figure 21-2
+  Fredrik Fågelström , 17 October 2021
+    The "O" is missing in the board at the bottom of the figure. 
+   
+Page 617, Figure 21-15
+  Fredrik Fågelström , 17 October 2021
+    The pattern of blue dots in boards on the left side should not repeat. 
     
 NOTEBOOKS ......................................................................
 
