@@ -110,6 +110,19 @@ Page 468, Figure 16-45
  John Funge, 30 July 2021
    The bottom-most row in the leftmost image (T-map) has been removed.
    
+Page 492, 2nd paragraph
+  Gösta Sundqvist, 16 October 2021
+    Replace "top right of Figure 17-23" with "top right of Figure 17-24"
+    
+Page 520, 4th paragraph
+  Gösta Sundqvist, 16 October 2021
+    Repalce "step in Figure 18-35" with "step in Figure 18-36"
+    
+Page 647, 4th paragraph
+  Gösta Sundqvist, 16 October 2021
+    Replace "9 columns, or a bit under 390 million cells." with
+    "16 columns, or a bit under 690 million cells."
+   
 Page 663, 5th paragraph
   Jarno Mielikainen, 25 September 2021
     Replace "only 18 neurons and 54 weights" with "only 18 neurons
