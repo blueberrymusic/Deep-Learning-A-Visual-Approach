@@ -117,6 +117,11 @@ Page 663, 5th paragraph
     
 NOTEBOOKS ......................................................................
 
+Bonus01-Scikit-Learn-4-PCA
+  Craig Reynolds, 16 October 2021
+    In cell 13, added black outlines and set 1:1:1 aspect ratio to 
+    match the image in the PDF
+    
 Bonus01-Scikit-Learn-6-Automation
   Craig Reynolds, 16 October 2021
     In cell 12, poly_degree now runs from 1 to 6
@@ -132,7 +137,7 @@ BONUS CHAPTERS .................................................................
 Bonus Chapter 1, 2nd paragraph
   Jarno Mielikainen, 6 October 2021
     change "form almost any specific" to "from almost any specific"
-    
+        
 Bonus Chapter 1, Figure B1-22, page 32
   Jarno Mielikainen, 6 October 2021
     Remove the "1" in "Parameter ranges 1"
