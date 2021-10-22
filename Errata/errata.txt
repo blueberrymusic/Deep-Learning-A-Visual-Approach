@@ -60,6 +60,12 @@ Page 145, First paragraph, two changes
   "the cross entropy has its minimum additional value of 0)." 
   2. Replace "Identical distributions have a cross entropy of 0," with
   "Identical distributions share the minimum cross entropy,"
+  
+Page 251, Second paragraph, Last sentence
+  Stavros Fasoulas, 22 Oct 2021
+    Replace "3.001 megabytes" with "3.003 megabytes (three million bytes
+    for the full images, and three thousand bytes due to three bytes
+    for each of 1,000 images)."
     
 Page 259, last full paragraph
   Craig Reynolds, 30 August 2021
@@ -113,7 +119,16 @@ Page 468, Figure 16-45
 Page 469, Figure 16-46
   Fredrik Fågelström , 17 October 2021
     The cell at (2,2) for L-pool in the middle of the diagram should be green.
-   
+    
+Page 470, Figure 16-49 
+ Stavros Fasoulas, 22 October 2021
+   The loser-left grid should be the same as the upper-left grid.
+    
+Page 471, Figure 16-50
+ Stavros Fasoulas, 22 October 2021
+   Changed the first line under each convolution layer to match the
+   convention used in other figures.
+  
 Page 480, First paragraph
   Fredrik Fågelström , 17 October 2021
     Replace "The tensor coming out of Group 4 has size 28 by 28 by 512, and 
