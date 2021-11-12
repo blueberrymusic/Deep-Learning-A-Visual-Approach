@@ -54,6 +54,12 @@ Page 97, first paragraph
   Matthew Dority, 17 September 2021
     At the end of the paragraph, replace "P(B|A)" with "P(A|B)"
     
+Page 123, second paragraph
+  Martin Arrogante, 11 November 2021
+    In "If we rotate the line counterclockwise, the slope takes
+    on increasingly negative values." replace "counterclockwise"
+    with "clockwise".
+    
 Page 145, First paragraph, two changes
   Jarno Mielikainen, 31 August 2021
   1. Replace "the cross entropy has its minimum value of 0)." with
