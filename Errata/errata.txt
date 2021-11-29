@@ -225,6 +225,11 @@ Bonus Chapter 2, caption for Listing B2-63, page 68
   Jarno Mielikainen, 6 October 2021
     Change "created by B2-63" to "created by B2-62"
     
+Bonus Chapter 3, 2nd paragraph, page 5
+  Craig Reynolds, 7 November 2021
+    Replace "training accuracy is about 98%" with
+    "validation accuracy is about 98%"
+    
 Bonus Chapter 3, Figure B3-6 caption, page 6
   Jarno Mielikainen, 6 October 2021
     Change "dense layers have a ReLU" to "hidden dense layers 
