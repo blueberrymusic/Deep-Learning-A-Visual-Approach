@@ -54,6 +54,10 @@ Page 97, first paragraph
   Matthew Dority, 17 September 2021
     At the end of the paragraph, replace "P(B|A)" with "P(A|B)"
     
+Page 114, first paragraph 
+  Andrew, 20 December 2021
+    Replace "The probability at 0.3" with "The probability that 0.3"
+    
 Page 123, second paragraph
   Martin Arrogante, 11 November 2021
     In "If we rotate the line counterclockwise, the slope takes
