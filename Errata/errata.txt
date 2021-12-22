@@ -67,10 +67,10 @@ Page 123, second paragraph
     
 Page 145, First paragraph, two changes
   Jarno Mielikainen, 31 August 2021
-  1. Replace "the cross entropy has its minimum value of 0)." with
-  "the cross entropy has its minimum additional value of 0)." 
-  2. Replace "Identical distributions have a cross entropy of 0," with
-  "Identical distributions share the minimum cross entropy,"
+    1. Replace "the cross entropy has its minimum value of 0)." with
+    "the cross entropy has its minimum additional value of 0)." 
+    2. Replace "Identical distributions have a cross entropy of 0," with
+    "Identical distributions share the minimum cross entropy,"
   
 Page 251, Second paragraph, Last sentence
   Stavros Fasoulas, 22 Oct 2021
@@ -133,7 +133,7 @@ Page 469, Figure 16-46
     
 Page 470, Figure 16-49 
  Stavros Fasoulas, 22 October 2021
-   The loser-left grid should be the same as the upper-left grid.
+   The lower-left grid should be the same as the upper-left grid.
     
 Page 471, Figure 16-50
  Stavros Fasoulas, 22 October 2021
@@ -154,7 +154,7 @@ Page 492, 2nd paragraph
     
 Page 520, 4th paragraph
   Gösta Sundqvist, 16 October 2021
-    Repalce "step in Figure 18-35" with "step in Figure 18-36"
+    Replace "step in Figure 18-35" with "step in Figure 18-36"
     
 Page 647, 4th paragraph
   Gösta Sundqvist, 16 October 2021
