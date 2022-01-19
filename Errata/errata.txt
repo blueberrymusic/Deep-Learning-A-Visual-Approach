@@ -156,6 +156,10 @@ Page 520, 4th paragraph
   Gösta Sundqvist, 16 October 2021
     Replace "step in Figure 18-35" with "step in Figure 18-36"
     
+Page 604, Figure 21-2
+  Fredrik Fågelström , 17 October 2021
+    The "O" is missing in the board at the bottom of the figure. 
+    
 Page 647, 4th paragraph
   Gösta Sundqvist, 16 October 2021
     Replace "9 columns, or a bit under 390 million cells." with
@@ -165,10 +169,6 @@ Page 663, 5th paragraph
   Jarno Mielikainen, 25 September 2021
     Replace "only 18 neurons and 54 weights" with "only 18 neurons
     and 114 weights."
-   
-Page 664, Figure 21-2
-  Fredrik Fågelström , 17 October 2021
-    The "O" is missing in the board at the bottom of the figure. 
    
 Page 617, Figure 21-15
   Fredrik Fågelström , 17 October 2021
