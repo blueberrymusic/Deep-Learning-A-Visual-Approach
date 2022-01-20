@@ -22,7 +22,20 @@ Entries are attributed to the person who first reported the issue, or
 everyone involved if it took a couple of tries to make a clear and
 concise change.
 
-BOOK TEXT AND FIGURES ..........................................................
+These changes apply only to the second printing. All of the issues
+we knew about in the first printing have been addressed. You can 
+check which printing you have by looking on the second page, opposite 
+the dedication. The first printing errata can be found in this
+directory in the file first-printing-errata.
+
+SECOND PRINTING ....................................................
+
+!!!!!!!!!!!!!!!!!!!! FIRST PRINTING ONLY !!!!!!!!!!!!!!!!!!!!!!!!!!!
+All of the changes below apply only to the first printing. They
+have all been included in the second printing. You can check which
+one you have by looking on the second page, opposite the dedication.
+
+BOOK TEXT AND FIGURES ..............................................
 
 Page 20, Figure 2-5
  Viktor Korsun, 18 July 2021
