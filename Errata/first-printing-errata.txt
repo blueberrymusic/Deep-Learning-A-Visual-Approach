@@ -281,3 +281,5 @@ Bonus Chapter 3, 3rd paragraph, page 103
 Bonus Chapter 3, Figure B3-96, page 104
   Jarno Mielikainen, 6 October 2021
     Change both instances of "ReLu" to "ReLU"
+    
+------ end of errata -----
