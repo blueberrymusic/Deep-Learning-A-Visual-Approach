@@ -30,6 +30,40 @@ be found in this directory in the file first-printing-errata.txt.
 
 SECOND PRINTING ....................................................
 
-(How nice - no errors reported yet!)
+Page 236, Figure 10-15
+  Shanmuganathan Raman, 8 February 2022
+    The 46 should be 86
+
+Page 237, Figure 10-16
+  Shanmuganathan Raman, 8 February 2022
+    The 46 should be 86
+    
+Page 237, Figure 10-17
+  Shanmuganathan Raman, 8 February 2022
+    The 46 should be 86
+    
+Page 238, Figure 10-18
+  Shanmuganathan Raman, 8 February 2022
+    The 46 should be 86
+    
+Page 285, 2nd paragraph
+  Shanmuganathan Raman, 8 February 2022
+    Replace the two sentences starting with "The larger the value 
+    of C..." with "Large values of C tell the algorithm to produce
+    small zones around the dividing line. As we reduce the value
+    of C, the zones can become larger."
+    
+Page 285, 3rd paragraph
+  Shanmuganathan Raman, 8 February 2022
+    Replace "100,000" with "about 0.01"
+      
+Page 286, Figure 11-28 caption
+  Shanmuganathan Raman, 8 February 2022
+    Replace "100,000" with "0.01"
+      
+Page 286, Figure 11-29 caption
+  Shanmuganathan Raman, 8 February 2022
+    Replace with "Raising C to 100,000 creates a smaller zone
+    around the dividing line compared to Figure 11-28."    
 
 --------------------------- END OF ERRATA --------------------------- 
