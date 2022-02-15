@@ -1,8 +1,13 @@
 !!!!!!!!!!!!!!!!!!!! FIRST PRINTING ONLY !!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 All of the changes below apply only to the first printing. They
-have all been included in the second printing. You can check which
+have all been fixed in later printings. You can check which
 one you have by looking on the second page, opposite the dedication.
+
+If you have the first printing, then you'll want to consult both
+this file and those for later printings, since those will contain
+fixes to the first printing that slipped past us.
+
 If you have the second printing, you don't need this file.
 
 BOOK TEXT AND FIGURES ..............................................
