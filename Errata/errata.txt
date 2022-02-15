@@ -30,6 +30,12 @@ be found in this directory in the file first-printing-errata.txt.
 
 SECOND PRINTING ....................................................
 
+Page 125, third paragraph
+  Shanmuganathan Raman, 15 February 2022
+    Replace "In the same way, if the derivative is negative,
+    then to find..." with "By the same logic, if we want to
+    find..."
+    
 Page 236, Figure 10-15
   Shanmuganathan Raman, 8 February 2022
     The 46 should be 86
