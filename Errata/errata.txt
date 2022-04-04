@@ -71,5 +71,11 @@ Page 286, Figure 11-29 caption
   Shanmuganathan Raman, 8 February 2022
     Replace with "Raising C to 100,000 creates a smaller zone
     around the dividing line compared to Figure 11-28."    
+    
+Page 497, 5th paragraph
+  Shanmuganathan Raman, 4 April 2022
+    Replace "we can’t tell the compressed version from the 
+    original.“ with "we can't tell the uncompressed version
+    from the original."
 
 --------------------------- END OF ERRATA --------------------------- 
