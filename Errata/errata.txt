@@ -77,5 +77,11 @@ Page 497, 5th paragraph
     Replace "we can’t tell the compressed version from the 
     original.“ with "we can't tell the uncompressed version
     from the original."
-
+    
+Page 523, 2nd paragraph
+  Shanmuganathan Raman, 7 April 2022
+    Replace "pick these points in the dense zones, or the 
+    unoccupied zones, we often" with "pick these points in 
+    either the dense zones or the unoccupied zones, we often"
+    
 --------------------------- END OF ERRATA --------------------------- 
