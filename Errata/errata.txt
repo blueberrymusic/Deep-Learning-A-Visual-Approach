@@ -82,6 +82,6 @@ Page 523, 2nd paragraph
   Shanmuganathan Raman, 7 April 2022
     Replace "pick these points in the dense zones, or the 
     unoccupied zones, we often" with "pick these points in 
-    either the dense zones or the unoccupied zones, we often"
+    either the dense or sparse zones, we often"
     
 --------------------------- END OF ERRATA --------------------------- 
