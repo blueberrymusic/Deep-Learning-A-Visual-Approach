@@ -84,4 +84,9 @@ Page 523, 2nd paragraph
     unoccupied zones, we often" with "pick these points in 
     either the sparse or densely mixed zones, we often"
     
+Page 586, 3rd paragraph
+  Thomas Weisbach, 11 April 2022
+    In "(build from decoder blocks" replace "build" with "built"
+    
+    
 --------------------------- END OF ERRATA --------------------------- 
