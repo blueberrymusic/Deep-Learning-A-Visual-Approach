@@ -88,5 +88,8 @@ Page 586, 3rd paragraph
   Thomas Weisbach, 11 April 2022
     In "(build from decoder blocks" replace "build" with "built"
     
+Page 591, 1st paragraph
+  Thomas Weisbach, 21 April 2022
+    Remove repeated "in" from "shown in in Figure 20-26"     
     
 --------------------------- END OF ERRATA --------------------------- 
