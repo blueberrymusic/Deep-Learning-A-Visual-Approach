@@ -84,6 +84,10 @@ Page 523, 2nd paragraph
     unoccupied zones, we often" with "pick these points in 
     either the sparse or densely mixed zones, we often"
     
+Page 550, Figure 19-10 caption
+  Shanmuganathan Raman, 21 April 2022
+    replace "Add-sauce" with "Add-syrup"
+    
 Page 586, 3rd paragraph
   Thomas Weisbach, 11 April 2022
     In "(build from decoder blocks" replace "build" with "built"
