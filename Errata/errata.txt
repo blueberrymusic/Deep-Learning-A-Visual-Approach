@@ -94,6 +94,10 @@ Page 586, 3rd paragraph
     
 Page 591, 1st paragraph
   Thomas Weisbach, 21 April 2022
-    Remove repeated "in" from "shown in in Figure 20-26"     
+    Remove repeated "in" from "shown in in Figure 20-26"  
+    
+Bonus Chapter 1, Page 27, 4th paragraph
+  Thomas Weisbach, 24 April 2022
+    Replace "cross-variance" with "cross-validation"
     
 --------------------------- END OF ERRATA --------------------------- 
