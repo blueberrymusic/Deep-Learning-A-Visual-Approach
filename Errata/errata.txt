@@ -100,4 +100,9 @@ Bonus Chapter 1, Page 27, 4th paragraph
   Thomas Weisbach, 24 April 2022
     Replace "cross-variance" with "cross-validation"
     
+Bonus Chapter 2, Page 10 from start of chapter, 1st paragraph
+  Thomas Weisbach, 5 May 2022
+    Replace "structured with the channels first" with 
+    "structured with the channels last."
+    
 --------------------------- END OF ERRATA --------------------------- 
