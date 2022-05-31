@@ -100,6 +100,18 @@ Bonus Chapter 1, Page 27, 4th paragraph
   Thomas Weisbach, 24 April 2022
     Replace "cross-variance" with "cross-validation"
     
+Bonus Chapter 2, Page 32, 4th Paragraph
+  Thomas Weisbach, 28 May 2022
+    Replace the comma after "the same job," with a period.
+    
+Bonus Chapter 2, Page 54, Listing B2-45
+  Thomas Weisbach, 29 May 2022
+    Append these lines to listing B2-45:
+        Epoch 19/20
+        45000/45000 - 4s - loss: 0.0013 - accuracy: 1.0000 - val_loss: 0.0829 - val_accuracy: 0.9797
+        Epoch 20/20
+        45000/45000 - 4s - loss: 0.0011 - accuracy: 1.0000 - val_loss: 0.0852 - val_accuracy: 0.9792
+    
 Bonus Chapter 2, Page 10 from start of chapter, 1st paragraph
   Thomas Weisbach, 5 May 2022
     Replace "structured with the channels first" with 
