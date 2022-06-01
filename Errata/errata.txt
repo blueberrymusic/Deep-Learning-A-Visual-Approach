@@ -70,7 +70,21 @@ Page 286, Figure 11-28 caption
 Page 286, Figure 11-29 caption
   Shanmuganathan Raman, 8 February 2022
     Replace with "Raising C to 100,000 creates a smaller zone
-    around the dividing line compared to Figure 11-28."    
+    around the dividing line compared to Figure 11-28."
+    
+Page 469, Figure 16-46
+  Dudu Edri, 11 May 2022
+    All the green blocks for R-pool in the left and middle
+    parts should be shifted left one square. The rightmost
+    figure has 3 sets of changes: the rightmost 3 cells on
+    the top row should read R, T, T; the leftmost 4 cells on
+    the 3rd row should read T, TR, QR, L; and the leftmost
+    four cells on the last row should read blank, RL, L, R
+    
+Page 469, Figure 16-47
+  Dudu Edri, 11 May 2022
+    The grid on the left should be changed to match the
+    updated grid in Figure 16-46 - see the previous update
     
 Page 497, 5th paragraph
   Shanmuganathan Raman, 4 April 2022
