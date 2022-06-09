@@ -30,6 +30,15 @@ be found in this directory in the file first-printing-errata.txt.
 
 SECOND PRINTING ....................................................
 
+Page 110, fourth paragraph
+  Gianni Errera, 4 June 2022
+    Replace text from "Say we have 16 coins..." to "0.125" with:
+    Say we have 20 coins. If this is the case, then we have 10 
+    fair coins, and 10 rigged coins (2 for each allowed value of
+    the bias). The chance of picking a fair coin is then 
+    10 / 20 = 0.5, whereas the chance of picking each rigged 
+    coin is 2 / 20 = 0.1.
+    
 Page 125, third paragraph
   Shanmuganathan Raman, 15 February 2022
     Replace "In the same way, if the derivative is negative,
@@ -114,6 +123,11 @@ Bonus Chapter 1, Page 27, 4th paragraph
   Thomas Weisbach, 24 April 2022
     Replace "cross-variance" with "cross-validation"
     
+Bonus Chapter 2, Page 10, 1st paragraph
+  Thomas Weisbach, 5 May 2022
+    Replace "structured with the channels first" with 
+    "structured with the channels last."
+    
 Bonus Chapter 2, Page 32, 4th Paragraph
   Thomas Weisbach, 28 May 2022
     Replace the comma after "the same job," with a period.
@@ -126,9 +140,25 @@ Bonus Chapter 2, Page 54, Listing B2-45
         Epoch 20/20
         45000/45000 - 4s - loss: 0.0011 - accuracy: 1.0000 - val_loss: 0.0852 - val_accuracy: 0.9792
     
-Bonus Chapter 2, Page 10 from start of chapter, 1st paragraph
-  Thomas Weisbach, 5 May 2022
-    Replace "structured with the channels first" with 
-    "structured with the channels last."
+Bonus Chapter 2, Page 67, last paragraph
+  Thomas Weisbach, 8 June 2022
+    Remove line break after "(and computer time)"
+    
+Bonus Chapter 3, Page 20, caption for Listing B3-10
+  Thomas Weisbach, 8 June 2022
+    Remove "]" at end of caption.
+    
+Bonus Chapter 3, Page 61, first paragraph
+  Thomas Weisbach, 8 June 2022
+    Replace comma after (0,0) with a period.
+    
+Bonus Chapter 3, Page 97, first paragraph
+  Thomas Weisbach, 8 June 2022
+    Replace "feed" with "feeds"
+    
+Bonus Chapter 3, Page 67, last paragraph
+  Thomas Weisbach, 8 June 2022
+    On some e-readers, it may not be clear that the seed 
+    text is "last time in my life. Certainly a gray m"
     
 --------------------------- END OF ERRATA --------------------------- 
