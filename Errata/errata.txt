@@ -41,9 +41,10 @@ Page 110, fourth paragraph
     
 Page 125, third paragraph
   Shanmuganathan Raman, 15 February 2022
-    Replace "In the same way, if the derivative is negative,
-    then to find..." with "By the same logic, if we want to
-    find..."
+  Gianni Errera, 12 June 2022
+    Replace the sentence "In the same way..." with
+    "By the same logic, if we want to find smaller values when 
+    the derivative is positive, we move to the left."
     
 Page 236, Figure 10-15
   Shanmuganathan Raman, 8 February 2022
@@ -79,7 +80,12 @@ Page 286, Figure 11-28 caption
 Page 286, Figure 11-29 caption
   Shanmuganathan Raman, 8 February 2022
     Replace with "Raising C to 100,000 creates a smaller zone
-    around the dividing line compared to Figure 11-28."
+    around the dividing line compared to Figure 11-28."      
+    
+Page 467, Figure 16-22
+  Thomas Weisbach, 13 June 2022
+    The word at the bottom of the rightmost grid 
+    should be "jumped"
     
 Page 469, Figure 16-46
   Dudu Edri, 11 May 2022
