@@ -102,7 +102,7 @@ Page 469, Figure 16-47
     updated grid in Figure 16-46 - see the previous update
     
 Page 477, Figure 17-3 caption
-  Shanmuganathan Raman, 4 April 2022
+  Shanmuganathan Raman, 26 July 2022
     Replace "our convnet in Figure 17-2" with 
     "our convnet in Figure 17-1"
     
