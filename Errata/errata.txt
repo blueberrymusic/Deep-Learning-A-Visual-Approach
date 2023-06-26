@@ -22,7 +22,7 @@ Entries are attributed to the person who first reported the issue, or
 everyone involved if it took a couple of tries to make a clear and
 concise change.
 
-These changes apply only to the second printing. All of the issues
+These changes apply only to the SECOND PRINTING. All of the issues
 we knew about in the first printing have been corected in the second
 printing. You can check which printing you have by looking on the 
 second page, opposite the dedication. The first printing errata can 
@@ -49,6 +49,27 @@ Page 125, third paragraph
     Replace the sentence "In the same way..." with
     "By the same logic, if we want to find smaller values when 
     the derivative is positive, we move to the left."
+
+Page 212, third paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "noisy data atmospheric data" with "noisy 
+    atmospheric data"
+
+Page 212, seventh paragraph
+  Christoph Thomas, 22 June 2023
+    In "As the line rotates clockwise, as in Figure 9-17, 
+    the slope increases. As the line rotates counterclockwise, 
+    the slope decreases." exchange the words "clockwise"
+    and "counterclockwise".
+
+Page 219, second paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "bottom right of Figure 9-21" with "bottom 
+    right of Figure 9-23"
+
+Page 255, second paragraph under "PCA for Real Images"
+  Christoph Thomas, 22 June 2023
+    Replace "to part of a nose" with "to be part of a nose"
     
 Page 236, Figure 10-15
   Shanmuganathan Raman, 8 February 2022
@@ -85,7 +106,21 @@ Page 286, Figure 11-29 caption
   Shanmuganathan Raman, 8 February 2022
     Replace with "Raising C to 100,000 creates a smaller zone
     around the dividing line compared to Figure 11-28."      
-    
+
+Page 331, third paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "that by most" with "that most"
+
+Page 334, fourth paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "1.25 / -0.5" with "-1.5 / 0.5"
+
+Page 416, Figure 15-36 caption
+  Christoph Thomas, 22 June 2023
+    Remove "The graph shows 1,000 epochs."
+
+
+
 Page 467, Figure 16-22
   Thomas Weisbach, 13 June 2022
     The word at the bottom of the rightmost grid 
