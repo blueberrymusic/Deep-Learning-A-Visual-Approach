@@ -115,11 +115,41 @@ Page 334, fourth paragraph
   Christoph Thomas, 22 June 2023
     Replace "1.25 / -0.5" with "-1.5 / 0.5"
 
+Page 370, Figure 14-18
+  Christoph Thomas, 22 June 2023
+    Move pink error boxes next to their blue
+    bars for consistency with other figures
+
+Page 377, Figure 14-27
+  Christoph Thomas, 22 June 2023
+    Replace the "d" in "Cd" with Greek delta
+
 Page 416, Figure 15-36 caption
   Christoph Thomas, 22 June 2023
     Remove "The graph shows 1,000 epochs."
 
+Page 436, second paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "by calling a spatial filter" with
+    "by calling it a spatial filter"
 
+Page 449, next to last paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "yellow" with "yellow-green"
+
+Page 455, first paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "input dimensions as the input" with
+    "dimensions of the input"
+
+Page 456, third paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "striding can" with "striding can be"
+
+Page 462, last paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "middle of Figure 16-37." with
+    "middle of Figure 16-38."
 
 Page 467, Figure 16-22
   Thomas Weisbach, 13 June 2022
@@ -139,35 +169,98 @@ Page 469, Figure 16-47
   Dudu Edri, 11 May 2022
     The grid on the left should be changed to match the
     updated grid in Figure 16-46 - see the previous update
+
+Page 472, second paragraph
+  Christoph Thomas, 22 June 2023
+    Delete "The output of the layer has one channel per filter."
     
 Page 477, Figure 17-3 caption
   Shanmuganathan Raman, 26 July 2022
     Replace "our convnet in Figure 17-2" with 
     "our convnet in Figure 17-1"
+
+Page 496, fourth paragraph
+  Christoph Thomas, 22 June 2023
+    Add a period after "matches the original"
     
 Page 497, 5th paragraph
   Shanmuganathan Raman, 4 April 2022
     Replace "we can’t tell the compressed version from the 
     original.“ with "we can't tell the uncompressed version
     from the original."
+
+Page 499, last paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "chosen the earlier" with "choose the earlier"
+
+Page 510, first paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "1's" with "1s"
+
+Page 512, first paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "The 1's" with "The 1s"
+
+Page 520, first paragraph
+  Christoph Thomas, 22 June 2023
+    Delete "in" from "top row of in Figure 18-35" 
+
+Page 520, fourth paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "end of the decoding" with "end of the encoding"
     
 Page 523, 2nd paragraph
   Shanmuganathan Raman, 7 April 2022
     Replace "pick these points in the dense zones, or the 
     unoccupied zones, we often" with "pick these points in 
     either the sparse or densely mixed zones, we often"
+
+Page 527, first paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "2's" with "2s"
     
 Page 550, Figure 19-10 caption
   Shanmuganathan Raman, 21 April 2022
-    replace "Add-sauce" with "Add-syrup"
+    Replace "Add-sauce" with "Add-syrup"
+
+Page 557, first paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "generated" with "generate"
+
+Page 559, Figure 19-20
+  Christoph Thomas, 22 June 2023
+    Capitalize "input" on far left
+
+Page 560, 2nd paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "schematic for this layer" with 
+    "schematic for this network"
     
 Page 586, 3rd paragraph
   Thomas Weisbach, 11 April 2022
     In "(build from decoder blocks" replace "build" with "built"
+
+Page 563, caption of Figure 19-23
+  Christoph Thomas, 22 June 2023
+    Replace "sending it a decoder" with "sending it to a decoder"
     
 Page 591, 1st paragraph
   Thomas Weisbach, 21 April 2022
     Remove repeated "in" from "shown in in Figure 20-26"  
+
+Page 604, Figure 21-1
+  Christoph Thomas, 22 June 2023
+    Include the O in the middle of the left column in the
+    board at the right end
+
+Page 662, 1st paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "we hope the distributor" with 
+    "we hope the discriminator"
+
+Page 662, 2nd paragraph
+  Christoph Thomas, 22 June 2023
+    Replace "more like the those" with "more like those"
     
 Bonus Chapter 1, Page 27, 4th paragraph
   Thomas Weisbach, 24 April 2022
