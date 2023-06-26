@@ -1,5 +1,5 @@
 This is the errata file for "Deep Learning: A Visual Approach" 
-by Andrew Glassner, published by No Starch Press.
+by Andrew Glassner, published by No Starch Press. 
 
 The up-to-date version of this file is maintained at
 https://github.com/blueberrymusic/
