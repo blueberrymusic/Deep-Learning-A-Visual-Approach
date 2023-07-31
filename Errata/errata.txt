@@ -42,6 +42,10 @@ Page 110, fourth paragraph
     the bias). The chance of picking a fair coin is then 
     10 / 20 = 0.5, whereas the chance of picking each rigged 
     coin is 2 / 20 = 0.1.
+
+Page 145, second paragraph
+  Arturo Nereu, 20 July 2023
+    Delete repeated "this" in "Where is the coffee located in this this mixture?".
     
 Page 125, third paragraph
   Shanmuganathan Raman, 15 February 2022
