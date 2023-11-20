@@ -36,16 +36,14 @@ Page 52, caption to Figure 3-6
 
 Page 110, fourth paragraph
   Gianni Errera, 4 June 2022
-    Replace text from "Say we have 16 coins..." to "0.125" with:
-    Say we have 20 coins. If this is the case, then we have 10 
-    fair coins, and 10 rigged coins (2 for each allowed value of
-    the bias). The chance of picking a fair coin is then 
-    10 / 20 = 0.5, whereas the chance of picking each rigged 
-    coin is 2 / 20 = 0.1.
+  Gus V, 9 November 2023
+    After "Say we have 16 coins" (and before the period) insert,
+    "composed of two sets of each pair (0, .5), (.25, .5), (.75, .5), 
+     and (1,.5)"
 
-Page 145, second paragraph
-  Arturo Nereu, 20 July 2023
-    Delete repeated "this" in "Where is the coffee located in this this mixture?".
+Page 145, second paragraph  Arturo Nereu, 20 July 2023
+    Delete repeated "this" in "Where is the coffee located 
+    in this this mixture?".
     
 Page 125, third paragraph
   Shanmuganathan Raman, 15 February 2022
