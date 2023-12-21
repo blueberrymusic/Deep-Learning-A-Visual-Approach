@@ -107,7 +107,16 @@ Page 286, Figure 11-28 caption
 Page 286, Figure 11-29 caption
   Shanmuganathan Raman, 8 February 2022
     Replace with "Raising C to 100,000 creates a smaller zone
-    around the dividing line compared to Figure 11-28."      
+    around the dividing line compared to Figure 11-28."     
+
+Page 330, third paragraph
+  Vignesh Parthiban, 18 December 2023
+    Replace "78A + 86B" with "60A + 80B"
+
+Page 331, Figure 13-16
+  Vignesh Parthiban, 18 December 2023
+    Replace both instances of "78" with "60", and
+    both instances of "86" with "80"
 
 Page 331, third paragraph
   Christoph Thomas, 22 June 2023
