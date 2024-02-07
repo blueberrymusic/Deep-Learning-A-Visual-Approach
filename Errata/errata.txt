@@ -31,7 +31,7 @@ be found in this directory in the file first-printing-errata.txt.
 SECOND PRINTING ....................................................
 
 Page 22, final paragraph
-  Deniz Dag, 4 Feb 2022
+  Deniz Dag, 4 Feb 2024
     Remove the sentence, "For these illustrations, we didn't 
       scale the curve so that the area under it sums to 1."
 
