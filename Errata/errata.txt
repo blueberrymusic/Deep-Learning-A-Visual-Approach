@@ -46,7 +46,8 @@ Page 110, fourth paragraph
     "composed of two sets of each pair (0, .5), (.25, .5), (.75, .5), 
      and (1,.5)"
 
-Page 145, second paragraph  Arturo Nereu, 20 July 2023
+Page 145, second paragraph  
+  Arturo Nereu, 20 July 2023
     Delete repeated "this" in "Where is the coffee located 
     in this this mixture?".
     
