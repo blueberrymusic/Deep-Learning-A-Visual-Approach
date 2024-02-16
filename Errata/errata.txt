@@ -48,8 +48,8 @@ Page 110, fourth paragraph
 
 Page 112, caption to Figure 4.31
   Deniz Dag, 11 Feb 2024
-    Append to the end of the caption, "Note that each graph is
-    individually scaled."
+    Append to the end of the caption, "To make the bars
+    read clearly, each graph has its own vertical scale."
 
 Page 145, second paragraph  
   Arturo Nereu, 20 July 2023
