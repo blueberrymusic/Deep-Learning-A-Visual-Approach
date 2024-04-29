@@ -39,4 +39,13 @@ licensing, and see the book for the URL where each image may be found. All image
 without an explicit citation in the book are by the author, and are released
 under the MIT license.
 
+These free notebooks are for educational purposes only, and I'm sharing them
+so you can see what I did to make the book's figures. They were written in a
+standalone Python environment, using the versions of Python and the included
+libraries current at the book's original publication. Unfortunately, I don't 
+have the means to maintain these notebooks in perpetuity, including updating 
+them as the underlying libraries change, or porting them to new environments. 
+Since they're only meant as guides and examples, I encourage you to hack and 
+adapt them to get them to run as you like, and to achieve the results you're after.
+
 ## Have Fun!
