@@ -44,6 +44,12 @@ Page 52, caption to Figure 3-6
   Arturo Nereu, 23 May 2023
     Replace "(c) The darts only in B." with "(c) The darts in B."
 
+Page 73, Figure 3-30
+  Steve Cook, 12 November 2025
+    In the two rightmost columns only, replace every instance of
+    "True" with "Positive", and every instance of "False" with
+    "Negative"
+
 Page 110, fourth paragraph
   Gianni Errera, 4 June 2022
   Gus V, 9 November 2023
